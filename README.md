@@ -2,14 +2,9 @@
 
 Contributions to this Full-stack-Ecommerce project are welcome. Please consider the below factors while contributing.
 
-## Style Guides
+## Project Overview
 
-### Java (Spring Boot)
-
-- Use camelCase for variables and methods.
-- Use PascalCase for classes and interfaces.
-- Use 4 spaces for indentation.
-- Follow [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html).
+This project is an e-commerce website that provides a platform for users to browse, search, and purchase products online. The application features user management, product catalog, cart and checkout, order management, and secure payment options.
 
 ## Documentation:
 Ensure well-documented code for effective collaboration.
