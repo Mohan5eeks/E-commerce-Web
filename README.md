@@ -28,4 +28,4 @@ Contributions are licensed.
 
 ## Contact
 
-If you have any questions or need further guidance, please contact [your email](mohan5eeks@gmail.com).
+If you have any questions or need further guidance, please drop a mail [here](mohan5eeks@gmail.com).
