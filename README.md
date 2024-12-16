@@ -5,16 +5,29 @@ Contributions to this Full-stack-Ecommerce project are welcome. Please consider 
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [Documentation](#documentation)
-3. [Testing](#testing)
-4. [Issue Tracker](#issue-tracker)
-5. [Code Review](#code-review)
-6. [License](#license)
-7. [Contact](#contact)
+2. [Architecture](#architecture)
+3. [Documentation](#documentation)
+4. [Testing](#testing)
+5. [Issue Tracker](#issue-tracker)
+6. [Code Review](#code-review)
+7. [License](#license)
+8. [Contact](#contact)
 
 ## Project Overview
 
 This project is an e-commerce website that provides a platform for users to browse, search, and purchase products online. The application features user management, product catalog, cart and checkout, order management, and secure payment options.
+
+## Architecture
+
+The architecture is based on a microservices model, leveraging various tools and technologies to ensure scalability, reliability, and performance. The key components include:
+
+- Load Balancers (Amazon Elastic Load Balancing)
+- API Gateway (Kong)
+- Microservices
+- Databases (MySQL, MongoDB)
+- Message Broker (Kafka)
+- Caching (Redis)
+- Search and Analytics (Elasticsearch)
 
 ## Documentation:
 Ensure well-documented code for effective collaboration.
